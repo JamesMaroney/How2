@@ -43,4 +43,4 @@ More Information
 ----------------
 Learn more about How2 from the [User's Perspective](https://github.com/JamesMaroney/How2/wiki/Overview:-User's-Perspective).
 
-Learn more about How2 from the Developer's Perspective.
+Learn more about How2 from the [Developer's Perspective](https://github.com/JamesMaroney/How2/wiki/Overview:-Developer's-Perspective).
